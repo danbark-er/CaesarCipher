@@ -1,5 +1,5 @@
 # Script to encrypt or decrypt a message using a caesar cipher
-# Author : dmb385
+# Author : Dan Barker
 # Date created : 21/04/2022
 # Last modified : 08/06/2022
 
@@ -12,7 +12,7 @@ heading = text2art("Caesar    Cipher!", font='graffiti', chr_ignore=True)
 print("===================================================================================================")
 print(heading)
 print("===================================================================================================\n")
-print("                                       Created by dmb385.\n")
+print("                                       Created by Dan Barker.\n")
 print("Welcome. ")
 
 # Get user input - encryption or decryption? | convert input to uppercase | define where start of code is (main)
